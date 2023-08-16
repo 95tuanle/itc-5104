@@ -223,8 +223,11 @@ Prompt ******  Populating LOCATIONS table ....
 
 INSERT INTO locations VALUES 
         ( 1000 
-        , '1297 Via Cola di Rie'
-        , '00989'
+        , '
+1297 Via Cola di Rie'
+        , '
+00989
+'
         , 'Roma'
         , NULL
         , 'IT'
@@ -232,8 +235,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 1100 
-        , '93091 Calle della Testa'
-        , '10934'
+        , '
+93091 Calle della Testa'
+        , '
+10934
+'
         , 'Venice'
         , NULL
         , 'IT'
@@ -241,8 +247,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 1200 
-        , '2017 Shinjuku-ku'
-        , '1689'
+        , '
+2017 Shinjuku-ku'
+        , '
+1689
+'
         , 'Tokyo'
         , 'Tokyo Prefecture'
         , 'JP'
@@ -250,8 +259,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 1300 
-        , '9450 Kamiya-cho'
-        , '6823'
+        , '
+9450 Kamiya-cho'
+        , '
+6823
+'
         , 'Hiroshima'
         , NULL
         , 'JP'
@@ -259,8 +271,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 1400 
-        , '2014 Jabberwocky Rd'
-        , '26192'
+        , '
+2014 Jabberwocky Rd'
+        , '
+26192
+'
         , 'Southlake'
         , 'Texas'
         , 'US'
@@ -268,8 +283,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 1500 
-        , '2011 Interiors Blvd'
-        , '99236'
+        , '
+2011 Interiors Blvd'
+        , '
+99236
+'
         , 'South San Francisco'
         , 'California'
         , 'US'
@@ -277,8 +295,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 1600 
-        , '2007 Zagora St'
-        , '50090'
+        , '
+2007 Zagora St'
+        , '
+50090
+'
         , 'South Brunswick'
         , 'New Jersey'
         , 'US'
@@ -286,8 +307,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 1700 
-        , '2004 Charade Rd'
-        , '98199'
+        , '
+2004 Charade Rd'
+        , '
+98199
+'
         , 'Seattle'
         , 'Washington'
         , 'US'
@@ -295,7 +319,8 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 1800 
-        , '147 Spadina Ave'
+        , '
+147 Spadina Ave'
         , 'M5V 2L7'
         , 'Toronto'
         , 'Ontario'
@@ -304,7 +329,8 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 1900 
-        , '6092 Boxwood St'
+        , '
+6092 Boxwood St'
         , 'YSW 9T2'
         , 'Whitehorse'
         , 'Yukon'
@@ -313,8 +339,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 2000 
-        , '40-5-12 Laogianggen'
-        , '190518'
+        , '
+40-5-12 Laogianggen'
+        , '
+190518
+'
         , 'Beijing'
         , NULL
         , 'CN'
@@ -322,8 +351,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 2100 
-        , '1298 Vileparle (E)'
-        , '490231'
+        , '
+1298 Vileparle (E)'
+        , '
+490231
+'
         , 'Bombay'
         , 'Maharashtra'
         , 'IN'
@@ -331,8 +363,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 2200 
-        , '12-98 Victoria Street'
-        , '2901'
+        , '
+12-98 Victoria Street'
+        , '
+2901
+'
         , 'Sydney'
         , 'New South Wales'
         , 'AU'
@@ -340,8 +375,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 2300 
-        , '198 Clementi North'
-        , '540198'
+        , '
+198 Clementi North'
+        , '
+540198
+'
         , 'Singapore'
         , NULL
         , 'SG'
@@ -349,7 +387,8 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 2400 
-        , '8204 Arthur St'
+        , '
+8204 Arthur St'
         , NULL
         , 'London'
         , NULL
@@ -367,8 +406,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 2600 
-        , '9702 Chester Road'
-        , '09629850293'
+        , '
+9702 Chester Road'
+        , '
+09629850293
+'
         , 'Stretford'
         , 'Manchester'
         , 'UK'
@@ -376,8 +418,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 2700 
-        , 'Schwanthalerstr. 7031'
-        , '80925'
+        , 'Schwanthalerstr. 7031
+'
+        , '
+80925
+'
         , 'Munich'
         , 'Bavaria'
         , 'DE'
@@ -386,7 +431,9 @@ INSERT INTO locations VALUES
 INSERT INTO locations VALUES 
         ( 2800 
         , 'Rua Frei Caneca 1360 '
-        , '01307-002'
+        , '
+01307-002
+'
         , 'Sao Paulo'
         , 'Sao Paulo'
         , 'BR'
@@ -394,8 +441,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 2900 
-        , '20 Rue des Corps-Saints'
-        , '1730'
+        , '
+20 Rue des Corps-Saints'
+        , '
+1730
+'
         , 'Geneva'
         , 'Geneve'
         , 'CH'
@@ -403,8 +453,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 3000 
-        , 'Murtenstrasse 921'
-        , '3095'
+        , 'Murtenstrasse 921
+'
+        , '
+3095
+'
         , 'Bern'
         , 'BE'
         , 'CH'
@@ -412,8 +465,10 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 3100 
-        , 'Pieter Breughelstraat 837'
-        , '3029SK'
+        , 'Pieter Breughelstraat 837
+'
+        , '
+3029SK'
         , 'Utrecht'
         , 'Utrecht'
         , 'NL'
@@ -421,8 +476,11 @@ INSERT INTO locations VALUES
 
 INSERT INTO locations VALUES 
         ( 3200 
-        , 'Mariano Escobedo 9991'
-        , '11932'
+        , 'Mariano Escobedo 9991
+'
+        , '
+11932
+'
         , 'Mexico City'
         , 'Distrito Federal,'
         , 'MX'
@@ -772,8 +830,12 @@ INSERT INTO employees VALUES
         , 'Steven'
         , 'King'
         , 'SKING'
-        , '515.123.4567'
-        , TO_DATE('17-JUN-2007', 'dd-MON-yyyy')
+        , '
+515.123.4567
+'
+        , TO_DATE('
+17-JUN-2007
+', 'dd-MON-yyyy')
         , 'AD_PRES'
         , 24000
         , NULL
@@ -786,8 +848,12 @@ INSERT INTO employees VALUES
         , 'Neena'
         , 'Kochhar'
         , 'NKOCHHAR'
-        , '515.123.4568'
-        , TO_DATE('21-SEP-2009', 'dd-MON-yyyy')
+        , '
+515.123.4568
+'
+        , TO_DATE('
+21-SEP-2009
+', 'dd-MON-yyyy')
         , 'AD_VP'
         , 17000
         , NULL
@@ -800,8 +866,12 @@ INSERT INTO employees VALUES
         , 'Lex'
         , 'De Haan'
         , 'LDEHAAN'
-        , '515.123.4569'
-        , TO_DATE('13-JAN-2003', 'dd-MON-yyyy')
+        , '
+515.123.4569
+'
+        , TO_DATE('
+13-JAN-2003
+', 'dd-MON-yyyy')
         , 'AD_VP'
         , 17000
         , NULL
@@ -814,8 +884,12 @@ INSERT INTO employees VALUES
         , 'Alexander'
         , 'Hunold'
         , 'AHUNOLD'
-        , '590.423.4567'
-        , TO_DATE('03-JAN-2000', 'dd-MON-yyyy')
+        , '
+590.423.4567
+'
+        , TO_DATE('
+03-JAN-2000
+', 'dd-MON-yyyy')
         , 'IT_PROG'
         , 9000
         , NULL
@@ -828,8 +902,12 @@ INSERT INTO employees VALUES
         , 'Bruce'
         , 'Ernst'
         , 'BERNST'
-        , '590.423.4568'
-        , TO_DATE('21-MAY-2001', 'dd-MON-yyyy')
+        , '
+590.423.4568
+'
+        , TO_DATE('
+21-MAY-2001
+', 'dd-MON-yyyy')
         , 'IT_PROG'
         , 6000
         , NULL
@@ -842,8 +920,12 @@ INSERT INTO employees VALUES
         , 'David'
         , 'Austin'
         , 'DAUSTIN'
-        , '590.423.4569'
-        , TO_DATE('25-JUN-2007', 'dd-MON-yyyy')
+        , '
+590.423.4569
+'
+        , TO_DATE('
+25-JUN-2007
+', 'dd-MON-yyyy')
         , 'IT_PROG'
         , 4800
         , NULL
@@ -856,8 +938,12 @@ INSERT INTO employees VALUES
         , 'Valli'
         , 'Pataballa'
         , 'VPATABAL'
-        , '590.423.4560'
-        , TO_DATE('05-FEB-2008', 'dd-MON-yyyy')
+        , '
+590.423.4560
+'
+        , TO_DATE('
+05-FEB-2008
+', 'dd-MON-yyyy')
         , 'IT_PROG'
         , 4800
         , NULL
@@ -870,8 +956,12 @@ INSERT INTO employees VALUES
         , 'Diana'
         , 'Lorentz'
         , 'DLORENTZ'
-        , '590.423.5567'
-        , TO_DATE('07-FEB-2009', 'dd-MON-yyyy')
+        , '
+590.423.5567
+'
+        , TO_DATE('
+07-FEB-2009
+', 'dd-MON-yyyy')
         , 'IT_PROG'
         , 4200
         , NULL
@@ -884,8 +974,12 @@ INSERT INTO employees VALUES
         , 'Nancy'
         , 'Greenberg'
         , 'NGREENBE'
-        , '515.124.4569'
-        , TO_DATE('17-AUG-2004', 'dd-MON-yyyy')
+        , '
+515.124.4569
+'
+        , TO_DATE('
+17-AUG-2004
+', 'dd-MON-yyyy')
         , 'FI_MGR'
         , 12000
         , NULL
@@ -898,8 +992,12 @@ INSERT INTO employees VALUES
         , 'Daniel'
         , 'Faviet'
         , 'DFAVIET'
-        , '515.124.4169'
-        , TO_DATE('16-AUG-2004', 'dd-MON-yyyy')
+        , '
+515.124.4169
+'
+        , TO_DATE('
+16-AUG-2004
+', 'dd-MON-yyyy')
         , 'FI_ACCOUNT'
         , 9000
         , NULL
@@ -912,8 +1010,12 @@ INSERT INTO employees VALUES
         , 'John'
         , 'Chen'
         , 'JCHEN'
-        , '515.124.4269'
-        , TO_DATE('28-SEP-2007', 'dd-MON-yyyy')
+        , '
+515.124.4269
+'
+        , TO_DATE('
+28-SEP-2007
+', 'dd-MON-yyyy')
         , 'FI_ACCOUNT'
         , 8200
         , NULL
@@ -926,8 +1028,12 @@ INSERT INTO employees VALUES
         , 'Ismael'
         , 'Sciarra'
         , 'ISCIARRA'
-        , '515.124.4369'
-        , TO_DATE('30-SEP-2007', 'dd-MON-yyyy')
+        , '
+515.124.4369
+'
+        , TO_DATE('
+30-SEP-2007
+', 'dd-MON-yyyy')
         , 'FI_ACCOUNT'
         , 7700
         , NULL
@@ -940,8 +1046,12 @@ INSERT INTO employees VALUES
         , 'Jose Manuel'
         , 'Urman'
         , 'JMURMAN'
-        , '515.124.4469'
-        , TO_DATE('07-MAR-2008', 'dd-MON-yyyy')
+        , '
+515.124.4469
+'
+        , TO_DATE('
+07-MAR-2008
+', 'dd-MON-yyyy')
         , 'FI_ACCOUNT'
         , 7800
         , NULL
@@ -954,8 +1064,12 @@ INSERT INTO employees VALUES
         , 'Luis'
         , 'Popp'
         , 'LPOPP'
-        , '515.124.4567'
-        , TO_DATE('07-DEC-2009', 'dd-MON-yyyy')
+        , '
+515.124.4567
+'
+        , TO_DATE('
+07-DEC-2009
+', 'dd-MON-yyyy')
         , 'FI_ACCOUNT'
         , 6900
         , NULL
@@ -968,8 +1082,12 @@ INSERT INTO employees VALUES
         , 'Den'
         , 'Raphaely'
         , 'DRAPHEAL'
-        , '515.127.4561'
-        , TO_DATE('07-DEC-2004', 'dd-MON-yyyy')
+        , '
+515.127.4561
+'
+        , TO_DATE('
+07-DEC-2004
+', 'dd-MON-yyyy')
         , 'PU_MAN'
         , 11000
         , NULL
@@ -982,8 +1100,12 @@ INSERT INTO employees VALUES
         , 'Alexander'
         , 'Khoo'
         , 'AKHOO'
-        , '515.127.4562'
-        , TO_DATE('18-MAY-2005', 'dd-MON-yyyy')
+        , '
+515.127.4562
+'
+        , TO_DATE('
+18-MAY-2005
+', 'dd-MON-yyyy')
         , 'PU_CLERK'
         , 3100
         , NULL
@@ -996,8 +1118,12 @@ INSERT INTO employees VALUES
         , 'Shelli'
         , 'Baida'
         , 'SBAIDA'
-        , '515.127.4563'
-        , TO_DATE('24-DEC-2007', 'dd-MON-yyyy')
+        , '
+515.127.4563
+'
+        , TO_DATE('
+24-DEC-2007
+', 'dd-MON-yyyy')
         , 'PU_CLERK'
         , 2900
         , NULL
@@ -1010,8 +1136,12 @@ INSERT INTO employees VALUES
         , 'Sigal'
         , 'Tobias'
         , 'STOBIAS'
-        , '515.127.4564'
-        , TO_DATE('24-JUL-2007', 'dd-MON-yyyy')
+        , '
+515.127.4564
+'
+        , TO_DATE('
+24-JUL-2007
+', 'dd-MON-yyyy')
         , 'PU_CLERK'
         , 2800
         , NULL
@@ -1024,8 +1154,12 @@ INSERT INTO employees VALUES
         , 'Guy'
         , 'Himuro'
         , 'GHIMURO'
-        , '515.127.4565'
-        , TO_DATE('15-NOV-2008', 'dd-MON-yyyy')
+        , '
+515.127.4565
+'
+        , TO_DATE('
+15-NOV-2008
+', 'dd-MON-yyyy')
         , 'PU_CLERK'
         , 2600
         , NULL
@@ -1038,8 +1172,12 @@ INSERT INTO employees VALUES
         , 'Karen'
         , 'Colmenares'
         , 'KCOLMENA'
-        , '515.127.4566'
-        , TO_DATE('10-AUG-2009', 'dd-MON-yyyy')
+        , '
+515.127.4566
+'
+        , TO_DATE('
+10-AUG-2009
+', 'dd-MON-yyyy')
         , 'PU_CLERK'
         , 2500
         , NULL
@@ -1052,8 +1190,12 @@ INSERT INTO employees VALUES
         , 'Matthew'
         , 'Weiss'
         , 'MWEISS'
-        , '650.123.1234'
-        , TO_DATE('18-JUL-2006', 'dd-MON-yyyy')
+        , '
+650.123.1234
+'
+        , TO_DATE('
+18-JUL-2006
+', 'dd-MON-yyyy')
         , 'ST_MAN'
         , 8000
         , NULL
@@ -1066,8 +1208,12 @@ INSERT INTO employees VALUES
         , 'Adam'
         , 'Fripp'
         , 'AFRIPP'
-        , '650.123.2234'
-        , TO_DATE('10-APR-2007', 'dd-MON-yyyy')
+        , '
+650.123.2234
+'
+        , TO_DATE('
+10-APR-2007
+', 'dd-MON-yyyy')
         , 'ST_MAN'
         , 8200
         , NULL
@@ -1080,8 +1226,12 @@ INSERT INTO employees VALUES
         , 'Payam'
         , 'Kaufling'
         , 'PKAUFLIN'
-        , '650.123.3234'
-        , TO_DATE('01-MAY-2005', 'dd-MON-yyyy')
+        , '
+650.123.3234
+'
+        , TO_DATE('
+01-MAY-2005
+', 'dd-MON-yyyy')
         , 'ST_MAN'
         , 7900
         , NULL
@@ -1094,8 +1244,12 @@ INSERT INTO employees VALUES
         , 'Shanta'
         , 'Vollman'
         , 'SVOLLMAN'
-        , '650.123.4234'
-        , TO_DATE('10-OCT-2007', 'dd-MON-yyyy')
+        , '
+650.123.4234
+'
+        , TO_DATE('
+10-OCT-2007
+', 'dd-MON-yyyy')
         , 'ST_MAN'
         , 6500
         , NULL
@@ -1108,8 +1262,12 @@ INSERT INTO employees VALUES
         , 'Kevin'
         , 'Mourgos'
         , 'KMOURGOS'
-        , '650.123.5234'
-        , TO_DATE('16-NOV-2009', 'dd-MON-yyyy')
+        , '
+650.123.5234
+'
+        , TO_DATE('
+16-NOV-2009
+', 'dd-MON-yyyy')
         , 'ST_MAN'
         , 5800
         , NULL
@@ -1122,8 +1280,12 @@ INSERT INTO employees VALUES
         , 'Julia'
         , 'Nayer'
         , 'JNAYER'
-        , '650.124.1214'
-        , TO_DATE('16-JUL-2007', 'dd-MON-yyyy')
+        , '
+650.124.1214
+'
+        , TO_DATE('
+16-JUL-2007
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 3200
         , NULL
@@ -1136,8 +1298,12 @@ INSERT INTO employees VALUES
         , 'Irene'
         , 'Mikkilineni'
         , 'IMIKKILI'
-        , '650.124.1224'
-        , TO_DATE('28-SEP-2018', 'dd-MON-yyyy')
+        , '
+650.124.1224
+'
+        , TO_DATE('
+28-SEP-2018
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2700
         , NULL
@@ -1150,8 +1316,12 @@ INSERT INTO employees VALUES
         , 'James'
         , 'Landry'
         , 'JLANDRY'
-        , '650.124.1334'
-        , TO_DATE('14-JAN-2019', 'dd-MON-yyyy')
+        , '
+650.124.1334
+'
+        , TO_DATE('
+14-JAN-2019
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2400
         , NULL
@@ -1164,8 +1334,12 @@ INSERT INTO employees VALUES
         , 'Steven'
         , 'Markle'
         , 'SMARKLE'
-        , '650.124.1434'
-        , TO_DATE('08-MAR-2018', 'dd-MON-yyyy')
+        , '
+650.124.1434
+'
+        , TO_DATE('
+08-MAR-2018
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2200
         , NULL
@@ -1178,8 +1352,12 @@ INSERT INTO employees VALUES
         , 'Laura'
         , 'Bissot'
         , 'LBISSOT'
-        , '650.124.5234'
-        , TO_DATE('20-AUG-2017', 'dd-MON-yyyy')
+        , '
+650.124.5234
+'
+        , TO_DATE('
+20-AUG-2017
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 3300
         , NULL
@@ -1192,8 +1370,12 @@ INSERT INTO employees VALUES
         , 'Mozhe'
         , 'Atkinson'
         , 'MATKINSO'
-        , '650.124.6234'
-        , TO_DATE('30-OCT-2017', 'dd-MON-yyyy')
+        , '
+650.124.6234
+'
+        , TO_DATE('
+30-OCT-2017
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2800
         , NULL
@@ -1206,8 +1388,12 @@ INSERT INTO employees VALUES
         , 'James'
         , 'Marlow'
         , 'JAMRLOW'
-        , '650.124.7234'
-        , TO_DATE('16-FEB-2018', 'dd-MON-yyyy')
+        , '
+650.124.7234
+'
+        , TO_DATE('
+16-FEB-2018
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2500
         , NULL
@@ -1220,8 +1406,12 @@ INSERT INTO employees VALUES
         , 'TJ'
         , 'Olson'
         , 'TJOLSON'
-        , '650.124.8234'
-        , TO_DATE('10-APR-2019', 'dd-MON-yyyy')
+        , '
+650.124.8234
+'
+        , TO_DATE('
+10-APR-2019
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2100
         , NULL
@@ -1234,8 +1424,12 @@ INSERT INTO employees VALUES
         , 'Jason'
         , 'Mallin'
         , 'JMALLIN'
-        , '650.127.1934'
-        , TO_DATE('14-JUN-2016', 'dd-MON-yyyy')
+        , '
+650.127.1934
+'
+        , TO_DATE('
+14-JUN-2016
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 3300
         , NULL
@@ -1248,8 +1442,12 @@ INSERT INTO employees VALUES
         , 'Michael'
         , 'Rogers'
         , 'MROGERS'
-        , '650.127.1834'
-        , TO_DATE('26-AUG-2018', 'dd-MON-yyyy')
+        , '
+650.127.1834
+'
+        , TO_DATE('
+26-AUG-2018
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2900
         , NULL
@@ -1262,8 +1460,12 @@ INSERT INTO employees VALUES
         , 'Ki'
         , 'Gee'
         , 'KGEE'
-        , '650.127.1734'
-        , TO_DATE('12-DEC-2019', 'dd-MON-yyyy')
+        , '
+650.127.1734
+'
+        , TO_DATE('
+12-DEC-2019
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2400
         , NULL
@@ -1276,8 +1478,12 @@ INSERT INTO employees VALUES
         , 'Hazel'
         , 'Philtanker'
         , 'HPHILTAN'
-        , '650.127.1634'
-        , TO_DATE('06-FEB-2000', 'dd-MON-yyyy')
+        , '
+650.127.1634
+'
+        , TO_DATE('
+06-FEB-2000
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2200
         , NULL
@@ -1290,8 +1496,12 @@ INSERT INTO employees VALUES
         , 'Renske'
         , 'Ladwig'
         , 'RLADWIG'
-        , '650.121.1234'
-        , TO_DATE('14-JUL-2015', 'dd-MON-yyyy')
+        , '
+650.121.1234
+'
+        , TO_DATE('
+14-JUL-2015
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 3600
         , NULL
@@ -1304,8 +1514,12 @@ INSERT INTO employees VALUES
         , 'Stephen'
         , 'Stiles'
         , 'SSTILES'
-        , '650.121.2034'
-        , TO_DATE('26-OCT-2017', 'dd-MON-yyyy')
+        , '
+650.121.2034
+'
+        , TO_DATE('
+26-OCT-2017
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 3200
         , NULL
@@ -1318,8 +1532,12 @@ INSERT INTO employees VALUES
         , 'John'
         , 'Seo'
         , 'JSEO'
-        , '650.121.2019'
-        , TO_DATE('12-FEB-2018', 'dd-MON-yyyy')
+        , '
+650.121.2019
+'
+        , TO_DATE('
+12-FEB-2018
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2700
         , NULL
@@ -1332,8 +1550,12 @@ INSERT INTO employees VALUES
         , 'Joshua'
         , 'Patel'
         , 'JPATEL'
-        , '650.121.1834'
-        , TO_DATE('06-APR-2018', 'dd-MON-yyyy')
+        , '
+650.121.1834
+'
+        , TO_DATE('
+06-APR-2018
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2500
         , NULL
@@ -1346,8 +1568,12 @@ INSERT INTO employees VALUES
         , 'Trenna'
         , 'Rajs'
         , 'TRAJS'
-        , '650.121.8009'
-        , TO_DATE('17-OCT-2015', 'dd-MON-yyyy')
+        , '
+650.121.8009
+'
+        , TO_DATE('
+17-OCT-2015
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 3500
         , NULL
@@ -1360,8 +1586,12 @@ INSERT INTO employees VALUES
         , 'Curtis'
         , 'Davies'
         , 'CDAVIES'
-        , '650.121.2994'
-        , TO_DATE('29-JAN-2017', 'dd-MON-yyyy')
+        , '
+650.121.2994
+'
+        , TO_DATE('
+29-JAN-2017
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 3100
         , NULL
@@ -1374,8 +1604,12 @@ INSERT INTO employees VALUES
         , 'Randall'
         , 'Matos'
         , 'RMATOS'
-        , '650.121.2874'
-        , TO_DATE('15-MAR-2018', 'dd-MON-yyyy')
+        , '
+650.121.2874
+'
+        , TO_DATE('
+15-MAR-2018
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2600
         , NULL
@@ -1388,8 +1622,12 @@ INSERT INTO employees VALUES
         , 'Peter'
         , 'Vargas'
         , 'PVARGAS'
-        , '650.121.2004'
-        , TO_DATE('09-JUL-2018', 'dd-MON-yyyy')
+        , '
+650.121.2004
+'
+        , TO_DATE('
+09-JUL-2018
+', 'dd-MON-yyyy')
         , 'ST_CLERK'
         , 2500
         , NULL
@@ -1402,8 +1640,12 @@ INSERT INTO employees VALUES
         , 'John'
         , 'Russell'
         , 'JRUSSEL'
-        , '011.44.1344.429268'
-        , TO_DATE('01-OCT-2016', 'dd-MON-yyyy')
+        , '
+011.44.1344.429268
+'
+        , TO_DATE('
+01-OCT-2016
+', 'dd-MON-yyyy')
         , 'SA_MAN'
         , 14000
         , .4
@@ -1416,8 +1658,12 @@ INSERT INTO employees VALUES
         , 'Karen'
         , 'Partners'
         , 'KPARTNER'
-        , '011.44.1344.467268'
-        , TO_DATE('05-JAN-2017', 'dd-MON-yyyy')
+        , '
+011.44.1344.467268
+'
+        , TO_DATE('
+05-JAN-2017
+', 'dd-MON-yyyy')
         , 'SA_MAN'
         , 13500
         , .3
@@ -1430,8 +1676,12 @@ INSERT INTO employees VALUES
         , 'Alberto'
         , 'Errazuriz'
         , 'AERRAZUR'
-        , '011.44.1344.429278'
-        , TO_DATE('10-MAR-2017', 'dd-MON-yyyy')
+        , '
+011.44.1344.429278
+'
+        , TO_DATE('
+10-MAR-2017
+', 'dd-MON-yyyy')
         , 'SA_MAN'
         , 12000
         , .3
@@ -1444,8 +1694,12 @@ INSERT INTO employees VALUES
         , 'Gerald'
         , 'Cambrault'
         , 'GCAMBRAU'
-        , '011.44.1344.619268'
-        , TO_DATE('15-OCT-2019', 'dd-MON-yyyy')
+        , '
+011.44.1344.619268
+'
+        , TO_DATE('
+15-OCT-2019
+', 'dd-MON-yyyy')
         , 'SA_MAN'
         , 11000
         , .3
@@ -1458,8 +1712,12 @@ INSERT INTO employees VALUES
         , 'Eleni'
         , 'Zlotkey'
         , 'EZLOTKEY'
-        , '011.44.1344.429018'
-        , TO_DATE('29-JAN-2000', 'dd-MON-yyyy')
+        , '
+011.44.1344.429018
+'
+        , TO_DATE('
+29-JAN-2000
+', 'dd-MON-yyyy')
         , 'SA_MAN'
         , 10500
         , .2
@@ -1472,8 +1730,12 @@ INSERT INTO employees VALUES
         , 'Peter'
         , 'Tucker'
         , 'PTUCKER'
-        , '011.44.1344.129268'
-        , TO_DATE('30-JAN-2017', 'dd-MON-yyyy')
+        , '
+011.44.1344.129268
+'
+        , TO_DATE('
+30-JAN-2017
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 10000
         , .3
@@ -1486,8 +1748,12 @@ INSERT INTO employees VALUES
         , 'David'
         , 'Bernstein'
         , 'DBERNSTE'
-        , '011.44.1344.345268'
-        , TO_DATE('24-MAR-2017', 'dd-MON-yyyy')
+        , '
+011.44.1344.345268
+'
+        , TO_DATE('
+24-MAR-2017
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 9500
         , .25
@@ -1500,8 +1766,12 @@ INSERT INTO employees VALUES
         , 'Peter'
         , 'Hall'
         , 'PHALL'
-        , '011.44.1344.478968'
-        , TO_DATE('20-AUG-2017', 'dd-MON-yyyy')
+        , '
+011.44.1344.478968
+'
+        , TO_DATE('
+20-AUG-2017
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 9000
         , .25
@@ -1514,8 +1784,12 @@ INSERT INTO employees VALUES
         , 'Christopher'
         , 'Olsen'
         , 'COLSEN'
-        , '011.44.1344.498718'
-        , TO_DATE('30-MAR-2018', 'dd-MON-yyyy')
+        , '
+011.44.1344.498718
+'
+        , TO_DATE('
+30-MAR-2018
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 8000
         , .2
@@ -1528,8 +1802,12 @@ INSERT INTO employees VALUES
         , 'Nanette'
         , 'Cambrault'
         , 'NCAMBRAU'
-        , '011.44.1344.987668'
-        , TO_DATE('09-DEC-2018', 'dd-MON-yyyy')
+        , '
+011.44.1344.987668
+'
+        , TO_DATE('
+09-DEC-2018
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 7500
         , .2
@@ -1542,8 +1820,12 @@ INSERT INTO employees VALUES
         , 'Oliver'
         , 'Tuvault'
         , 'OTUVAULT'
-        , '011.44.1344.486508'
-        , TO_DATE('23-NOV-2019', 'dd-MON-yyyy')
+        , '
+011.44.1344.486508
+'
+        , TO_DATE('
+23-NOV-2019
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 7000
         , .15
@@ -1556,8 +1838,12 @@ INSERT INTO employees VALUES
         , 'Janette'
         , 'King'
         , 'JKING'
-        , '011.44.1345.429268'
-        , TO_DATE('30-JAN-2006', 'dd-MON-yyyy')
+        , '
+011.44.1345.429268
+'
+        , TO_DATE('
+30-JAN-2006
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 10000
         , .35
@@ -1570,8 +1856,12 @@ INSERT INTO employees VALUES
         , 'Patrick'
         , 'Sully'
         , 'PSULLY'
-        , '011.44.1345.929268'
-        , TO_DATE('04-MAR-2006', 'dd-MON-yyyy')
+        , '
+011.44.1345.929268
+'
+        , TO_DATE('
+04-MAR-2006
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 9500
         , .35
@@ -1584,8 +1874,12 @@ INSERT INTO employees VALUES
         , 'Allan'
         , 'McEwen'
         , 'AMCEWEN'
-        , '011.44.1345.829268'
-        , TO_DATE('01-AUG-2006', 'dd-MON-yyyy')
+        , '
+011.44.1345.829268
+'
+        , TO_DATE('
+01-AUG-2006
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 9000
         , .35
@@ -1598,8 +1892,12 @@ INSERT INTO employees VALUES
         , 'Lindsey'
         , 'Smith'
         , 'LSMITH'
-        , '011.44.1345.729268'
-        , TO_DATE('10-MAR-2007', 'dd-MON-yyyy')
+        , '
+011.44.1345.729268
+'
+        , TO_DATE('
+10-MAR-2007
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 8000
         , .3
@@ -1612,8 +1910,12 @@ INSERT INTO employees VALUES
         , 'Louise'
         , 'Doran'
         , 'LDORAN'
-        , '011.44.1345.629268'
-        , TO_DATE('15-DEC-2007', 'dd-MON-yyyy')
+        , '
+011.44.1345.629268
+'
+        , TO_DATE('
+15-DEC-2007
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 7500
         , .3
@@ -1626,8 +1928,12 @@ INSERT INTO employees VALUES
         , 'Sarath'
         , 'Sewall'
         , 'SSEWALL'
-        , '011.44.1345.529268'
-        , TO_DATE('03-NOV-1998', 'dd-MON-yyyy')
+        , '
+011.44.1345.529268
+'
+        , TO_DATE('
+03-NOV-1998
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 7000
         , .25
@@ -1640,8 +1946,12 @@ INSERT INTO employees VALUES
         , 'Clara'
         , 'Vishney'
         , 'CVISHNEY'
-        , '011.44.1346.129268'
-        , TO_DATE('11-NOV-2007', 'dd-MON-yyyy')
+        , '
+011.44.1346.129268
+'
+        , TO_DATE('
+11-NOV-2007
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 10500
         , .25
@@ -1654,8 +1964,12 @@ INSERT INTO employees VALUES
         , 'Danielle'
         , 'Greene'
         , 'DGREENE'
-        , '011.44.1346.229268'
-        , TO_DATE('19-MAR-2009', 'dd-MON-yyyy')
+        , '
+011.44.1346.229268
+'
+        , TO_DATE('
+19-MAR-2009
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 9500
         , .15
@@ -1668,8 +1982,12 @@ INSERT INTO employees VALUES
         , 'Mattea'
         , 'Marvins'
         , 'MMARVINS'
-        , '011.44.1346.329268'
-        , TO_DATE('24-JAN-2000', 'dd-MON-yyyy')
+        , '
+011.44.1346.329268
+'
+        , TO_DATE('
+24-JAN-2000
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 7200
         , .10
@@ -1682,8 +2000,12 @@ INSERT INTO employees VALUES
         , 'David'
         , 'Lee'
         , 'DLEE'
-        , '011.44.1346.529268'
-        , TO_DATE('23-FEB-2000', 'dd-MON-yyyy')
+        , '
+011.44.1346.529268
+'
+        , TO_DATE('
+23-FEB-2000
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 6800
         , .1
@@ -1696,8 +2018,12 @@ INSERT INTO employees VALUES
         , 'Sundar'
         , 'Ande'
         , 'SANDE'
-        , '011.44.1346.629268'
-        , TO_DATE('24-MAR-2000', 'dd-MON-yyyy')
+        , '
+011.44.1346.629268
+'
+        , TO_DATE('
+24-MAR-2000
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 6400
         , .10
@@ -1710,8 +2036,12 @@ INSERT INTO employees VALUES
         , 'Amit'
         , 'Banda'
         , 'ABANDA'
-        , '011.44.1346.729268'
-        , TO_DATE('21-APR-2000', 'dd-MON-yyyy')
+        , '
+011.44.1346.729268
+'
+        , TO_DATE('
+21-APR-2000
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 6200
         , .10
@@ -1724,8 +2054,12 @@ INSERT INTO employees VALUES
         , 'Lisa'
         , 'Ozer'
         , 'LOZER'
-        , '011.44.1343.929268'
-        , TO_DATE('11-MAR-2007', 'dd-MON-yyyy')
+        , '
+011.44.1343.929268
+'
+        , TO_DATE('
+11-MAR-2007
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 11500
         , .25
@@ -1738,8 +2072,12 @@ INSERT INTO employees VALUES
         , 'Harrison'
         , 'Bloom'
         , 'HBLOOM'
-        , '011.44.1343.829268'
-        , TO_DATE('23-MAR-1998', 'dd-MON-yyyy')
+        , '
+011.44.1343.829268
+'
+        , TO_DATE('
+23-MAR-1998
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 10000
         , .20
@@ -1752,8 +2090,12 @@ INSERT INTO employees VALUES
         , 'Tayler'
         , 'Fox'
         , 'TFOX'
-        , '011.44.1343.729268'
-        , TO_DATE('24-JAN-1998', 'dd-MON-yyyy')
+        , '
+011.44.1343.729268
+'
+        , TO_DATE('
+24-JAN-1998
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 9600
         , .20
@@ -1766,8 +2108,12 @@ INSERT INTO employees VALUES
         , 'William'
         , 'Smith'
         , 'WSMITH'
-        , '011.44.1343.629268'
-        , TO_DATE('23-FEB-2009', 'dd-MON-yyyy')
+        , '
+011.44.1343.629268
+'
+        , TO_DATE('
+23-FEB-2009
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 7400
         , .15
@@ -1780,8 +2126,12 @@ INSERT INTO employees VALUES
         , 'Elizabeth'
         , 'Bates'
         , 'EBATES'
-        , '011.44.1343.529268'
-        , TO_DATE('24-MAR-2009', 'dd-MON-yyyy')
+        , '
+011.44.1343.529268
+'
+        , TO_DATE('
+24-MAR-2009
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 7300
         , .15
@@ -1794,8 +2144,12 @@ INSERT INTO employees VALUES
         , 'Sundita'
         , 'Kumar'
         , 'SKUMAR'
-        , '011.44.1343.329268'
-        , TO_DATE('21-APR-2000', 'dd-MON-yyyy')
+        , '
+011.44.1343.329268
+'
+        , TO_DATE('
+21-APR-2000
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 6100
         , .10
@@ -1808,8 +2162,12 @@ INSERT INTO employees VALUES
         , 'Ellen'
         , 'Abel'
         , 'EABEL'
-        , '011.44.1644.429267'
-        , TO_DATE('11-MAY-2006', 'dd-MON-yyyy')
+        , '
+011.44.1644.429267
+'
+        , TO_DATE('
+11-MAY-2006
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 11000
         , .30
@@ -1822,8 +2180,12 @@ INSERT INTO employees VALUES
         , 'Alyssa'
         , 'Hutton'
         , 'AHUTTON'
-        , '011.44.1644.429266'
-        , TO_DATE('19-MAR-2007', 'dd-MON-yyyy')
+        , '
+011.44.1644.429266
+'
+        , TO_DATE('
+19-MAR-2007
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 8800
         , .25
@@ -1836,8 +2198,12 @@ INSERT INTO employees VALUES
         , 'Jonathon'
         , 'Taylor'
         , 'JTAYLOR'
-        , '011.44.1644.429265'
-        , TO_DATE('24-MAR-1998', 'dd-MON-yyyy')
+        , '
+011.44.1644.429265
+'
+        , TO_DATE('
+24-MAR-1998
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 8600
         , .20
@@ -1850,8 +2216,12 @@ INSERT INTO employees VALUES
         , 'Jack'
         , 'Livingston'
         , 'JLIVINGS'
-        , '011.44.1644.429264'
-        , TO_DATE('23-APR-1998', 'dd-MON-yyyy')
+        , '
+011.44.1644.429264
+'
+        , TO_DATE('
+23-APR-1998
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 8400
         , .20
@@ -1862,10 +2232,15 @@ INSERT INTO employees VALUES
 INSERT INTO employees VALUES 
         ( 178
         , 'Kimberely'
-        , 'Grant'
+        , 'Grant
+'
         , 'KGRANT'
-        , '011.44.1644.429263'
-        , TO_DATE('24-MAY-2009', 'dd-MON-yyyy')
+        , '
+011.44.1644.429263
+'
+        , TO_DATE('
+24-MAY-2009
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 7000
         , .15
@@ -1878,8 +2253,12 @@ INSERT INTO employees VALUES
         , 'Charles'
         , 'Johnson'
         , 'CJOHNSON'
-        , '011.44.1644.429262'
-        , TO_DATE('04-JAN-2000', 'dd-MON-yyyy')
+        , '
+011.44.1644.429262
+'
+        , TO_DATE('
+04-JAN-2000
+', 'dd-MON-yyyy')
         , 'SA_REP'
         , 6200
         , .10
@@ -1892,8 +2271,12 @@ INSERT INTO employees VALUES
         , 'Winston'
         , 'Taylor'
         , 'WTAYLOR'
-        , '650.507.9876'
-        , TO_DATE('24-JAN-1998', 'dd-MON-yyyy')
+        , '
+650.507.9876
+'
+        , TO_DATE('
+24-JAN-1998
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3200
         , NULL
@@ -1906,8 +2289,12 @@ INSERT INTO employees VALUES
         , 'Jean'
         , 'Fleaur'
         , 'JFLEAUR'
-        , '650.507.9877'
-        , TO_DATE('23-FEB-1998', 'dd-MON-yyyy')
+        , '
+650.507.9877
+'
+        , TO_DATE('
+23-FEB-1998
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3100
         , NULL
@@ -1920,8 +2307,12 @@ INSERT INTO employees VALUES
         , 'Martha'
         , 'Sullivan'
         , 'MSULLIVA'
-        , '650.507.9878'
-        , TO_DATE('21-JUN-2009', 'dd-MON-yyyy')
+        , '
+650.507.9878
+'
+        , TO_DATE('
+21-JUN-2009
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 2500
         , NULL
@@ -1934,8 +2325,12 @@ INSERT INTO employees VALUES
         , 'Girard'
         , 'Geoni'
         , 'GGEONI'
-        , '650.507.9879'
-        , TO_DATE('03-FEB-2000', 'dd-MON-yyyy')
+        , '
+650.507.9879
+'
+        , TO_DATE('
+03-FEB-2000
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 2800
         , NULL
@@ -1948,8 +2343,12 @@ INSERT INTO employees VALUES
         , 'Nandita'
         , 'Sarchand'
         , 'NSARCHAN'
-        , '650.509.1876'
-        , TO_DATE('27-JAN-2006', 'dd-MON-yyyy')
+        , '
+650.509.1876
+'
+        , TO_DATE('
+27-JAN-2006
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 4200
         , NULL
@@ -1962,8 +2361,12 @@ INSERT INTO employees VALUES
         , 'Alexis'
         , 'Bull'
         , 'ABULL'
-        , '650.509.2876'
-        , TO_DATE('20-FEB-2007', 'dd-MON-yyyy')
+        , '
+650.509.2876
+'
+        , TO_DATE('
+20-FEB-2007
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 4100
         , NULL
@@ -1976,8 +2379,12 @@ INSERT INTO employees VALUES
         , 'Julia'
         , 'Dellinger'
         , 'JDELLING'
-        , '650.509.3876'
-        , TO_DATE('24-JUN-1998', 'dd-MON-yyyy')
+        , '
+650.509.3876
+'
+        , TO_DATE('
+24-JUN-1998
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3400
         , NULL
@@ -1990,8 +2397,12 @@ INSERT INTO employees VALUES
         , 'Anthony'
         , 'Cabrio'
         , 'ACABRIO'
-        , '650.509.4876'
-        , TO_DATE('07-FEB-2009', 'dd-MON-yyyy')
+        , '
+650.509.4876
+'
+        , TO_DATE('
+07-FEB-2009
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3000
         , NULL
@@ -2004,8 +2415,12 @@ INSERT INTO employees VALUES
         , 'Kelly'
         , 'Chung'
         , 'KCHUNG'
-        , '650.505.1876'
-        , TO_DATE('14-JUN-2007', 'dd-MON-yyyy')
+        , '
+650.505.1876
+'
+        , TO_DATE('
+14-JUN-2007
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3800
         , NULL
@@ -2018,8 +2433,12 @@ INSERT INTO employees VALUES
         , 'Jennifer'
         , 'Dilly'
         , 'JDILLY'
-        , '650.505.2876'
-        , TO_DATE('13-AUG-2007', 'dd-MON-yyyy')
+        , '
+650.505.2876
+'
+        , TO_DATE('
+13-AUG-2007
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3600
         , NULL
@@ -2032,8 +2451,12 @@ INSERT INTO employees VALUES
         , 'Timothy'
         , 'Gates'
         , 'TGATES'
-        , '650.505.3876'
-        , TO_DATE('11-JUL-1998', 'dd-MON-yyyy')
+        , '
+650.505.3876
+'
+        , TO_DATE('
+11-JUL-1998
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 2900
         , NULL
@@ -2046,8 +2469,12 @@ INSERT INTO employees VALUES
         , 'Randall'
         , 'Perkins'
         , 'RPERKINS'
-        , '650.505.4876'
-        , TO_DATE('19-DEC-2009', 'dd-MON-yyyy')
+        , '
+650.505.4876
+'
+        , TO_DATE('
+19-DEC-2009
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 2500
         , NULL
@@ -2060,8 +2487,12 @@ INSERT INTO employees VALUES
         , 'Sarah'
         , 'Bell'
         , 'SBELL'
-        , '650.501.1876'
-        , TO_DATE('04-FEB-2006', 'dd-MON-yyyy')
+        , '
+650.501.1876
+'
+        , TO_DATE('
+04-FEB-2006
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 4000
         , NULL
@@ -2074,8 +2505,12 @@ INSERT INTO employees VALUES
         , 'Britney'
         , 'Everett'
         , 'BEVERETT'
-        , '650.501.2876'
-        , TO_DATE('03-MAR-2007', 'dd-MON-yyyy')
+        , '
+650.501.2876
+'
+        , TO_DATE('
+03-MAR-2007
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3900
         , NULL
@@ -2088,8 +2523,12 @@ INSERT INTO employees VALUES
         , 'Samuel'
         , 'McCain'
         , 'SMCCAIN'
-        , '650.501.3876'
-        , TO_DATE('01-JUL-1998', 'dd-MON-yyyy')
+        , '
+650.501.3876
+'
+        , TO_DATE('
+01-JUL-1998
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3200
         , NULL
@@ -2102,8 +2541,12 @@ INSERT INTO employees VALUES
         , 'Vance'
         , 'Jones'
         , 'VJONES'
-        , '650.501.4876'
-        , TO_DATE('17-MAR-2009', 'dd-MON-yyyy')
+        , '
+650.501.4876
+'
+        , TO_DATE('
+17-MAR-2009
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 2800
         , NULL
@@ -2116,8 +2559,12 @@ INSERT INTO employees VALUES
         , 'Alana'
         , 'Walsh'
         , 'AWALSH'
-        , '650.507.9811'
-        , TO_DATE('24-APR-1998', 'dd-MON-yyyy')
+        , '
+650.507.9811
+'
+        , TO_DATE('
+24-APR-1998
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3100
         , NULL
@@ -2130,8 +2577,12 @@ INSERT INTO employees VALUES
         , 'Kevin'
         , 'Feeney'
         , 'KFEENEY'
-        , '650.507.9822'
-        , TO_DATE('23-MAY-1998', 'dd-MON-yyyy')
+        , '
+650.507.9822
+'
+        , TO_DATE('
+23-MAY-1998
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 3000
         , NULL
@@ -2144,8 +2595,12 @@ INSERT INTO employees VALUES
         , 'Donald'
         , 'OConnell'
         , 'DOCONNEL'
-        , '650.507.9833'
-        , TO_DATE('21-JUN-2009', 'dd-MON-yyyy')
+        , '
+650.507.9833
+'
+        , TO_DATE('
+21-JUN-2009
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 2600
         , NULL
@@ -2156,10 +2611,15 @@ INSERT INTO employees VALUES
 INSERT INTO employees VALUES 
         ( 199
         , 'Douglas'
-        , 'Grant'
+        , 'Grant
+'
         , 'DGRANT'
-        , '650.507.9844'
-        , TO_DATE('13-JAN-2000', 'dd-MON-yyyy')
+        , '
+650.507.9844
+'
+        , TO_DATE('
+13-JAN-2000
+', 'dd-MON-yyyy')
         , 'SH_CLERK'
         , 2600
         , NULL
@@ -2172,8 +2632,12 @@ INSERT INTO employees VALUES
         , 'Jennifer'
         , 'Whalen'
         , 'JWHALEN'
-        , '515.123.4444'
-        , TO_DATE('17-SEP-2007', 'dd-MON-yyyy')
+        , '
+515.123.4444
+'
+        , TO_DATE('
+17-SEP-2007
+', 'dd-MON-yyyy')
         , 'AD_ASST'
         , 4400
         , NULL
@@ -2186,8 +2650,12 @@ INSERT INTO employees VALUES
         , 'Michael'
         , 'Hartstein'
         , 'MHARTSTE'
-        , '515.123.5555'
-        , TO_DATE('17-FEB-2006', 'dd-MON-yyyy')
+        , '
+515.123.5555
+'
+        , TO_DATE('
+17-FEB-2006
+', 'dd-MON-yyyy')
         , 'MK_MAN'
         , 13000
         , NULL
@@ -2200,8 +2668,12 @@ INSERT INTO employees VALUES
         , 'Pat'
         , 'Fay'
         , 'PFAY'
-        , '603.123.6666'
-        , TO_DATE('17-AUG-2007', 'dd-MON-yyyy')
+        , '
+603.123.6666
+'
+        , TO_DATE('
+17-AUG-2007
+', 'dd-MON-yyyy')
         , 'MK_REP'
         , 6000
         , NULL
@@ -2214,8 +2686,12 @@ INSERT INTO employees VALUES
         , 'Susan'
         , 'Mavris'
         , 'SMAVRIS'
-        , '515.123.7777'
-        , TO_DATE('07-JUN-1994', 'dd-MON-yyyy')
+        , '
+515.123.7777
+'
+        , TO_DATE('
+07-JUN-1994
+', 'dd-MON-yyyy')
         , 'HR_REP'
         , 6500
         , NULL
@@ -2228,8 +2704,12 @@ INSERT INTO employees VALUES
         , 'Hermann'
         , 'Baer'
         , 'HBAER'
-        , '515.123.8888'
-        , TO_DATE('07-JUN-1994', 'dd-MON-yyyy')
+        , '
+515.123.8888
+'
+        , TO_DATE('
+07-JUN-1994
+', 'dd-MON-yyyy')
         , 'PR_REP'
         , 10000
         , NULL
@@ -2242,8 +2722,12 @@ INSERT INTO employees VALUES
         , 'Shelley'
         , 'Higgins'
         , 'SHIGGINS'
-        , '515.123.8080'
-        , TO_DATE('07-Nov-1993', 'dd-MON-yyyy')
+        , '
+515.123.8080
+'
+        , TO_DATE('
+07-Nov-1993
+', 'dd-MON-yyyy')
         , 'AC_MGR'
         , 12000
         , NULL
@@ -2256,8 +2740,12 @@ INSERT INTO employees VALUES
         , 'William'
         , 'Gietz'
         , 'WGIETZ'
-        , '515.123.8181'
-        , TO_DATE('07-JUN-1994', 'dd-MON-yyyy')
+        , '
+515.123.8181
+'
+        , TO_DATE('
+07-JUN-1994
+', 'dd-MON-yyyy')
         , 'AC_ACCOUNT'
         , 8300
         , NULL
